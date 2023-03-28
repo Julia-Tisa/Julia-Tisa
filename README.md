@@ -23,22 +23,9 @@ I am a quick learner and motivated to learn new technologies and development met
 
 ### Skills:
 
-_Fundamental skills:_
-* Ability to analyze large amounts of information
-* Mathematical aptitude
-* Ability to learn and develop
+_Fundamental skills:_ Ability to analyze large amounts of information, Mathematical aptitude, Ability to learn and develop
 
-_Applied skills:_
-* Professional JavaScript
-* React
-* Redux (reduxjs/toolkit)
-* Bootstrap, SCSS, HTML
-* Webpack
-* Eslint, CodeClimate
-* Git, Github, Github Actions
-* Jest
-* Command line
-* Nano
+_Applied skills:_ Professional JavaScript, React, Redux (reduxjs/toolkit), Bootstrap, SCSS, HTML, Webpack, Eslint, CodeClimate, Git, Github, Github Actions, Jest, Command line, Nano
 
 ### Awards, Certificates:
 Gold medal, red certificate
@@ -52,23 +39,5 @@ _September 2017 - August 2023_
 #### Hexlet, Frontend Developer Profession
 _January 2022 - May 2023_
 
-### Work Experience:
-#### Auditor, LLC "BARSITI"
-_January 2022 - December 2022_
-* Analyzed the company's financial statements and verified their accuracy.
-* Analyzed risks associated with the company's operations and suggested measures to manage them.
-* Evaluated the effectiveness of the company's internal control and audit systems.
-* Prepared reports on the audit findings and presented them to the company's management.
-* Organized and conducted inventories and inspections of the availability of necessary inventory, spare parts, and other materials.
-* Collaborated with audit firms and consultants, including compliance with regulatory requirements and legislation.
-* Worked with Excel, MS Office package.
-
-#### Administrator, LLC "BARSITI"
-_September 2021 - January 2022_
-* Managed the club's daily activities, including monitoring staff work, scheduling, ensuring proper functioning of technical systems such as lighting, ventilation, and air conditioning.
-* Communicated with club clients, including registering new members, answering customer questions, and handling their complaints.
-* Managed the club's finances, including monitoring revenue, preparing financial reports, creating budgets, and managing expenses.
-* Organized club events and promotions aimed at attracting new customers.
-* Managed the club's staff, including hiring and firing employees, evaluating their performance, and training new staff.
-* Complied with hygiene requirements and standards, ensuring cleanliness and order in the club.
-* Provided regular reports to club management on the club's activities.
+### How to reach me: 
+telegram: @volver_md | e-mail: gunoffun@yandex.ru
