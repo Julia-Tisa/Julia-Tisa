@@ -33,14 +33,14 @@
 <img align="left" alt="Figma" width="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" />
 <img alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Tisa&layout=compact&theme=radical)](https://github.com/Julia-Tisa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Tisa&layout=compact)](https://github.com/Julia-Tisa/github-readme-stats)
 
 
 ### 🚀 My projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-lvl1&theme=radical)](https://github.com/Julia-Tisa/frontend-project-lvl1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-lvl2&theme=radical)](https://github.com/Julia-Tisa/frontend-project-lvl2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-11&theme=radical)](https://github.com/Julia-Tisa/frontend-project-11)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-12&theme=radical)](https://github.com/Julia-Tisa/frontend-project-12)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-lvl1)](https://github.com/Julia-Tisa/frontend-project-lvl1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-lvl2)](https://github.com/Julia-Tisa/frontend-project-lvl2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-11)](https://github.com/Julia-Tisa/frontend-project-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-12)](https://github.com/Julia-Tisa/frontend-project-12)
 
 
 ### How to reach me: 
