@@ -41,6 +41,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-lvl2)](https://github.com/Julia-Tisa/frontend-project-lvl2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-11)](https://github.com/Julia-Tisa/frontend-project-11)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=frontend-project-12)](https://github.com/Julia-Tisa/frontend-project-12)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=test-task.github.io)](https://github.com/Julia-Tisa/test-task.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=test-task-two.github.io)](https://github.com/Julia-Tisa/test-task-two.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Tisa&repo=test-task-three)](https://github.com/Julia-Tisa/test-task-three)
 
 
 ### How to reach me: 
